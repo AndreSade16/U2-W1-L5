@@ -171,6 +171,10 @@ h1 {
     padding-left: 5%;
   }
 
+  h1 {
+    font-size: 5em;
+  }
+
   #hero svg {
     content-visibility: visible;
     transform: scale(2.5);
